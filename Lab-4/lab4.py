@@ -15,7 +15,10 @@ print(new_url)
 update= urlopen(new_url)
 print(update)
 
+counter=0
 
+if(sense.stick.get):
+    
 
 
 
